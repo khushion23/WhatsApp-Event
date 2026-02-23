@@ -33,7 +33,7 @@ const About = () => {
             </div>
             {/* Right: Animated GIF */}
             <div className="flex flex-col items-center min-w-[200px]">
-              <img src="/assets/Untitled design.gif" alt="Animated WhatsApp" className="w-80 h-80 rounded-2xl shadow-lg object-contain mb-2" />
+              <img src="/assets/untitled-design.gif" alt="Animated WhatsApp" className="w-80 h-80 rounded-2xl shadow-lg object-contain mb-2" />
               <div className="w-56 h-6 bg-black/20 rounded-full blur-md mt-2" />
             </div>
           </div>

@@ -17,7 +17,7 @@ const ForMoreQueries = () => {
         {/* Right: GIF/Illustration */}
         <div className="flex-1 flex items-center justify-center bg-transparent p-2">
           <img
-            src="/assets/Untitled design (4).gif"
+            src="/assets/untitled-design-4.gif"
             alt="Contact Illustration"
             className="w-full h-48 md:h-56 object-contain object-right rounded-2xl"
             draggable="false"

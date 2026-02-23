@@ -100,7 +100,7 @@ const RSVP = () => {
           >
             <div className="w-full h-full flex items-center justify-center">
               <video
-                src="/assets/7592140-hd_1920_1080_25fps (1) - CROP - Videobolt.net (1).mp4"
+                src="/assets/7592140-hd-1920-1080-25fps-crop-videobolt.mp4"
                 className="rounded-2xl shadow-lg object-cover w-full"
                 style={{ height: '100%', minHeight: '370px', maxHeight: '520px', aspectRatio: '1/1', background: '#181c23' }}
                 autoPlay

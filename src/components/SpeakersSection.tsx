@@ -12,7 +12,7 @@ const speakers = [
   {
     name: "SHRI NITIN MADAN KULKARNI",
     title: "Additional Chief Secretary to Governor\nJharkhand",
-    img: "/assets/speakers/Nitin Madan Kulkarni.png",
+    img: "/assets/speakers/Nitin_Madan_Kulkarni.png",
   },
   {
     name: "SHRI SAMPATH KUMAR",
@@ -22,7 +22,7 @@ const speakers = [
   {
     name: "ARUN SRINIVAS",
     title: "Managing Director & Country Head\nMeta India",
-    img: "/assets/speakers/Arun Srinivas.jpg",
+    img: "/assets/speakers/Arun_Srinivas.jpg",
   },
   {
     name: "SANDHYA DEVANATHAN",
@@ -32,7 +32,7 @@ const speakers = [
   {
     name: "RAVI GARG",
     title: "Country Head, WhatsApp for Business\nMeta India",
-    img: "/assets/speakers/Ravi Garg.jpg",
+    img: "/assets/speakers/Ravi_Garg.jpg",
   },
 ];
 
